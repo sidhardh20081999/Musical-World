@@ -21,6 +21,7 @@
           
     .headPhoneImage {
         max-width: 150px;
+        float: right;
     }
     @media screen and (min-width: 768px) {
         .headPhoneImage {
